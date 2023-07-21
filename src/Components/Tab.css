@@ -1,0 +1,9 @@
+.weeks-list{
+    color: black;
+    display: flex;
+    padding: auto 10px auto 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+}
